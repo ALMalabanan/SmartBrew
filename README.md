@@ -132,3 +132,11 @@ SmartBrew is an innovative coffee shop automation system that transforms the tra
 # 7. Activates hot water dispenser
 # 8. Returns to home position
 ```
+
+### Customization
+```bash
+# Modify ingredient ratios in PLC program
+# Adjust timing parameters for different cup sizes
+# Configure additional brewing profiles
+# Set custom movement patterns
+```
