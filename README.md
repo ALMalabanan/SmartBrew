@@ -21,7 +21,6 @@ SmartBrew is an innovative coffee shop automation system that transforms the tra
 
 ## 📋 Table of Contents
 
-- [Demo & Screenshots](#-demo--screenshots)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack--built-with)
 - [Installation](#-installation)
@@ -33,15 +32,17 @@ SmartBrew is an innovative coffee shop automation system that transforms the tra
 - [License](#-license)
 - [Contact](#-contact-info)
 
-## 🎥 Demo & Screenshots
+## ✨ Features
 
-![Demo GIF](https://via.placeholder.com/600x300/4169E1/FFFFFF?text=SmartBrew+Demo+Coming+Soon)
+- **Automated Coffee Brewing**: Complete automation from ingredient selection to final beverage preparation
+- **Precise Ingredient Ratios**: Custom-formulated ingredients ensure perfect 1:1 ratios for consistent taste
+- **Cartesian Manipulator Integration**: Advanced robotic arm movement for precise ingredient handling
+- **Dual Station Operation**: Two brewing stations (P1-P4 and P6-P8) for increased efficiency
+- **Intelligent End Effector**: Tomato harvesting-inspired gripper ensures consistent ingredient quantities
+- **Ultrasonic Sensor Array**: Cost-effective object detection system for cup positioning
+- **Automatic Refilling System**: Chicken feeder-inspired mechanism maintains ingredient levels
+- **Conveyor Belt Integration**: Expands operational positions beyond hardware limitations
+- **Spherical Ingredient Design**: Prevents clogging and ensures smooth ingredient transfer
+- **Hot Water Dispensing**: Integrated heating system (simulated via buzzer in demo)
 
-*Live demo will be added after project demonstration*
-
-### System Overview
-![System Diagram](https://via.placeholder.com/500x300/32CD32/FFFFFF?text=System+Architecture+Diagram)
-
-### Control Interface
-![PLC Interface](https://via.placeholder.com/400x250/FF6347/FFFFFF?text=PLC+Control+Interface)
 
