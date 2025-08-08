@@ -111,4 +111,13 @@ SmartBrew is an innovative coffee shop automation system that transforms the tra
 # Test conveyor belt operation
 ```
 
+## 💡 Usage
+
+### Starting the System
+```bash
+# 1. Power on all pneumatic equipment
+# 2. Initialize PLC program
+# 3. Verify all sensors are responding
+# 4. Check ingredient levels in all stations
+```
 
