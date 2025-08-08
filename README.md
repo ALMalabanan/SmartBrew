@@ -55,4 +55,15 @@ SmartBrew is an innovative coffee shop automation system that transforms the tra
 - **End Effector**: Custom gripper mechanism
 - **Conveyor System**: Belt-driven ingredient transport
 
+### Software & Tools
+- **Programming Environment**: WinSPS
+- **PLC Programming**: Instruction List (IL) programming
+- **Design Software**: 
+  - Pics Art (system illustrations)
+  - Canva (documentation and diagrams)
+  - Microsoft Word (documentation)
+- **Development**: PC-based programming environment
+- **Initial Development**: MacroPLC (preliminary development)
+
+
 
