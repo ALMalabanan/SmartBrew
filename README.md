@@ -29,8 +29,6 @@ SmartBrew is an innovative coffee shop automation system that transforms the tra
 - [Known Issues](#-known-issues--limitations)
 - [Future Improvements](#-future-improvements)
 - [Credits](#-credits--acknowledgements)
-- [License](#-license)
-- [Contact](#-contact-info)
 
 ## ✨ Features
 
