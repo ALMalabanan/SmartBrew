@@ -140,3 +140,18 @@ SmartBrew is an innovative coffee shop automation system that transforms the tra
 # Configure additional brewing profiles
 # Set custom movement patterns
 ```
+
+
+## ⚠️ Known Issues & Limitations
+
+### Current Limitations
+- **Timer Constraints**: PLC timer limitation of 127 affects extended brewing cycles
+- **Position Limitations**: Cartesian manipulator limited to 4 physical positions (addressed via conveyor)
+- **Hot Water Simulation**: Actual hot water dispensing simulated via buzzer in current setup
+- **Ingredient Size**: System optimized for spherical ingredients only
+- **Processing Power**: Ultrasonic array requires sufficient microcontroller processing capability
+
+### Known Issues
+- Conveyor synchronization may require manual adjustment
+- Sensor accuracy decreases with larger objects
+- Laboratory availability limits testing and development time
