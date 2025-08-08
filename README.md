@@ -45,4 +45,14 @@ SmartBrew is an innovative coffee shop automation system that transforms the tra
 - **Spherical Ingredient Design**: Prevents clogging and ensures smooth ingredient transfer
 - **Hot Water Dispensing**: Integrated heating system (simulated via buzzer in demo)
 
+## 🛠 Tech Stack / Built With
+
+### Hardware
+- **PLC Controller**: CL-150 PLC
+- **Manipulation System**: Electro-Pneumatic Training Equipment / Cartesian Manipulator
+- **Sensors**: Ultrasonic Sensor Array
+- **Actuators**: Pneumatic cylinders and solenoids
+- **End Effector**: Custom gripper mechanism
+- **Conveyor System**: Belt-driven ingredient transport
+
 
