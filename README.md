@@ -65,5 +65,50 @@ SmartBrew is an innovative coffee shop automation system that transforms the tra
 - **Development**: PC-based programming environment
 - **Initial Development**: MacroPLC (preliminary development)
 
+## 🚀 Installation
+
+### Prerequisites
+```bash
+# Required Hardware
+- CL-150 PLC
+- Electro-Pneumatic Training Equipment
+- PC with serial/USB connectivity
+- Ultrasonic sensors
+- Pneumatic components
+```
+
+### Software Setup
+```bash
+# 1. Install WinSPS software
+# Download WinSPS from manufacturer's website
+# Follow installation wizard
+
+# 2. Connect PLC to PC
+# Use appropriate communication cable (Serial/USB)
+# Verify connection in WinSPS software
+
+# 3. Load SmartBrew program
+# Open SmartBrew project file in WinSPS
+# Compile and verify program using WinSPS debugging tools
+# Transfer to CL-150 PLC
+```
+
+### Hardware Configuration
+```bash
+# 1. Set up Cartesian Manipulator
+# Mount manipulator in designated workspace
+# Connect pneumatic lines according to documentation
+# Calibrate movement limits
+
+# 2. Install Sensor Array
+# Position ultrasonic sensors for cup detection
+# Connect sensor outputs to PLC inputs
+# Test sensor response
+
+# 3. Configure Ingredient Stations
+# Set up ingredient containers at positions P1-P8
+# Install refilling mechanisms
+# Test conveyor belt operation
+```
 
 
