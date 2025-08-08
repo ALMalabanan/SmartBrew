@@ -174,3 +174,24 @@ SmartBrew is an innovative coffee shop automation system that transforms the tra
 - Add predictive maintenance capabilities
 - Enhance safety systems and emergency stops
 
+## 🙏 Credits & Acknowledgements
+
+### Team Members
+*Project team members and their contributions will be listed here*
+
+### Technical Inspiration
+- **End Effector Design**: Inspired by tomato harvesting end effectors proposed by Yeshmukhametov et al.
+- **Refilling System**: Based on Automatic Chicken Feeder mechanisms
+- **Object Detection**: Ultrasonic sensor array implementation for cost-effective detection
+
+### Special Thanks
+- Laboratory instructors and staff for equipment access and guidance
+- PLC programming community for technical resources
+- Open-source automation projects for inspiration and reference implementations
+
+### Software & Tools
+- **MacroPLC development environment** (initial prototyping)
+- **WinSPS software** (final development and debugging)
+- Pics Art for system visualization
+- Canva for professional documentation design
+- Microsoft Word for technical documentation
