@@ -121,3 +121,14 @@ SmartBrew is an innovative coffee shop automation system that transforms the tra
 # 4. Check ingredient levels in all stations
 ```
 
+### Basic Operation
+```bash
+# 1. Place cup in detection area
+# 2. System automatically detects cup using ultrasonic array
+# 3. Manipulator moves to first ingredient station
+# 4. Grabs precise amount of coffee
+# 5. Moves to cup and dispenses
+# 6. Repeats for additional ingredients (sugar, creamer, etc.)
+# 7. Activates hot water dispenser
+# 8. Returns to home position
+```
