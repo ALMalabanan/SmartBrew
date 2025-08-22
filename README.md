@@ -1,4 +1,3 @@
-
 # SmartBrew ☕
 > Your Personal Barista in a Machine
 
